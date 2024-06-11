@@ -1,7 +1,8 @@
 name: permission_request_page
 description: A widget that explains and requests why app permissions are needed.
 version: 1.0.1
-homepage: https://github.com/Dev-hwang/permission_request_page
+publish_to: https://github.com
+homepage: https://github.com/RedFireDigital/permission_request_page
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
